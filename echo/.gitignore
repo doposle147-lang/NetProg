@@ -1,0 +1,4 @@
+echo_client
+*.o
+*.dSYM
+.DS_Store
